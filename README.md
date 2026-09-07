@@ -2,7 +2,7 @@
 
 Software professional with 9+ years of experience building software, leading teams and delivering projects. Based in Mauritius, I work across product strategy, software development, system architecture and cloud infrastructure.
 
-I enjoy understanding how a business works, figuring out what needs to improve, and building software that makes people's work easier.
+> I enjoy understanding how a business works, figuring out what needs to improve, and building software that makes people's work easier.
 
 ---
 
@@ -32,4 +32,5 @@ Most of my production work is in private repositories.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/niraj-chutteeya/) · [Stack Overflow](https://stackoverflow.com/users/13235325/niraj-chutteeya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-chutteeya/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13235325/niraj-chutteeya)
