@@ -6,29 +6,48 @@ Software professional with 9+ years of experience building software, leading tea
 
 ---
 
-## What I do
+## 🇬🇧 English
 
-- **Products:** Build SaaS platforms, customer management systems (CRM), business operations software (ERP), web and cross-platform mobile applications.
-- **Architecture:** Design applications, APIs and cloud infrastructure, with attention to security, reliability, performance and cost.
+### What I do
+
+- **Products:** Build cloud-based platforms (SaaS), customer management systems (CRM), business operations software (ERP), web and cross-platform mobile applications.
+- **Architecture:** Design applications, interfaces (APIs) and cloud infrastructure, with attention to security, reliability, performance and cost.
 - **Teams & delivery:** Lead engineering teams, guide technical decisions and turn business priorities into working products.
 - **Automation:** Connect systems and use AI where it can improve workflows and software delivery.
 
 ---
 
-## Engineering focus
+## 🇫🇷 Français
+
+Professionnel du logiciel avec plus de 9 ans d'expérience dans la conception de logiciels, la direction d'équipes et la livraison de projets. Basé à Maurice, je travaille sur la stratégie produit, le développement logiciel, l'architecture système et l'infrastructure cloud.
+
+> J'aime comprendre le fonctionnement d'une entreprise, identifier ce qui doit être amélioré, et construire des logiciels qui facilitent le travail des gens.
+
+### Ce que je fais
+
+- **Produits :** Concevoir des plateformes en ligne (SaaS), des systèmes de gestion de la relation client (CRM), des logiciels de gestion d'entreprise (ERP), ainsi que des applications web et mobiles multiplateformes.
+- **Architecture :** Concevoir des applications, des interfaces (API) et des infrastructures cloud, avec une attention portée à la sécurité, la fiabilité, la performance et le coût.
+- **Équipes et livraison :** Diriger des équipes d'ingénierie, orienter les décisions techniques et transformer les priorités de l'entreprise en produits opérationnels.
+- **Automatisation :** Connecter les systèmes et utiliser l'IA pour améliorer les flux de travail et la livraison logicielle.
+
+---
+
+## Engineering focus / Domaines d'expertise
 
 Multi-tenant SaaS · System & infrastructure architecture · Cross-platform development · AWS · API integrations · DevOps · CI/CD · Automated testing
 
-| Area | Technologies |
+| Area / Domaine | Technologies |
 |---|---|
-| 💻 **Languages** | Python · JavaScript · TypeScript · SQL |
+| 💻 **Languages / Langages** | Python · JavaScript · TypeScript · SQL |
 | 🎨 **Frontend** | React · Next.js |
 | 📱 **Mobile** | Flutter · Cross-platform Android & iOS applications |
 | ⚙️ **Backend** | Django · Node.js |
-| 🗄️ **Data** | PostgreSQL · Redis · Amazon Aurora |
+| 🗄️ **Data / Données** | PostgreSQL · Redis · Amazon Aurora |
 | ☁️ **Cloud & infrastructure** | AWS · ECS/Fargate · Elastic Beanstalk · S3 · Docker |
 
 Most of my production work is in private repositories.
+
+La majorité de mon travail en production se trouve dans des dépôts privés.
 
 ---
 
