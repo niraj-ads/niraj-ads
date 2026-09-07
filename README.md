@@ -19,16 +19,16 @@ Software professional with 9+ years of experience building software, leading tea
 
 ## 🇫🇷 Français
 
-Professionnel du logiciel avec plus de 9 ans d'expérience dans la conception de logiciels, la direction d'équipes et la livraison de projets. Basé à Maurice, je travaille sur la stratégie produit, le développement logiciel, l'architecture système et l'infrastructure cloud.
+Professionnel du logiciel basé à Maurice, avec plus de 9 ans d'expérience à concevoir des produits, encadrer des équipes et livrer des projets de bout en bout. Mon terrain de jeu : la stratégie produit, le développement logiciel, l'architecture système et l'infrastructure cloud.
 
-> J'aime comprendre le fonctionnement d'une entreprise, identifier ce qui doit être amélioré, et construire des logiciels qui facilitent le travail des gens.
+> Ce qui me motive : comprendre comment fonctionne une entreprise, repérer ce qui peut être amélioré, et construire des outils qui simplifient réellement le travail des équipes.
 
 ### Ce que je fais
 
-- **Produits :** Concevoir des plateformes en ligne (SaaS), des systèmes de gestion de la relation client (CRM), des logiciels de gestion d'entreprise (ERP), ainsi que des applications web et mobiles multiplateformes.
-- **Architecture :** Concevoir des applications, des interfaces (API) et des infrastructures cloud, avec une attention portée à la sécurité, la fiabilité, la performance et le coût.
-- **Équipes et livraison :** Diriger des équipes d'ingénierie, orienter les décisions techniques et transformer les priorités de l'entreprise en produits opérationnels.
-- **Automatisation :** Connecter les systèmes et utiliser l'IA pour améliorer les flux de travail et la livraison logicielle.
+- **Produits :** Plateformes en ligne (SaaS), outils de gestion client (CRM) et de gestion d'entreprise (ERP) — déclinés en web comme en applications mobiles multiplateformes.
+- **Architecture :** Applications, interfaces (API) et infrastructures cloud pensées pour durer, avec une vigilance constante sur la sécurité, la fiabilité, la performance et le coût.
+- **Équipes et livraison :** Pilotage d'équipes techniques, arbitrage des choix d'architecture, et transformation des priorités business en produits livrés.
+- **Automatisation :** Connexion des systèmes entre eux, et recours à l'IA chaque fois qu'elle peut alléger un flux de travail ou accélérer une livraison.
 
 ---
 
